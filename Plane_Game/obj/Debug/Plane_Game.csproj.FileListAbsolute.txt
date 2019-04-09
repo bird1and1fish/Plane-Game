@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\First_Game\Plane_Game\obj\Debug\Plane_Game.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\First_Game\Plane_Game\obj\Debug\Plane_Game.Form1.resources
+C:\Users\DELL\source\repos\First_Game\Plane_Game\obj\Debug\Plane_Game.Properties.Resources.resources
+C:\Users\DELL\source\repos\First_Game\Plane_Game\obj\Debug\Plane_Game.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\First_Game\Plane_Game\obj\Debug\Plane_Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\First_Game\Plane_Game\bin\Debug\Plane_Game.exe.config
+C:\Users\DELL\source\repos\First_Game\Plane_Game\bin\Debug\Plane_Game.exe
+C:\Users\DELL\source\repos\First_Game\Plane_Game\bin\Debug\Plane_Game.pdb
+C:\Users\DELL\source\repos\First_Game\Plane_Game\obj\Debug\Plane_Game.exe
+C:\Users\DELL\source\repos\First_Game\Plane_Game\obj\Debug\Plane_Game.pdb
+C:\Users\DELL\source\repos\First_Game\Plane_Game\obj\Debug\Plane_Game.Form2.resources
